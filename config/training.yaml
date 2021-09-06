@@ -1,0 +1,6 @@
+DATASET: /media/farzeen/sabrent/sabent/raw_images_and_multiclass_labels
+USING_GPU: TRUE
+GPU_ID: 0
+n_classes: 5
+
+

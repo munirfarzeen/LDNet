@@ -1,0 +1,6 @@
+DATASET: /media/farzeen/sabrent/sabent/raw_images_and_multiclass_labels
+
+USING_GPU: TRUE
+GPU_ID: 0
+n_classes: 5
+model_path: /home/farzeen/workspace/lane-seg/LaneSeg/experiments/experiment_2021-01-19_11_55/models/LaneSeg-AttU_Net_ASPP-lane_epoch-93.pth
