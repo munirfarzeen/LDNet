@@ -1,4 +1,4 @@
-# LDNet
+# LDNet: End-to-End Lane Marking Detection Approach Using a Dynamic Vision Sensor
 This is the Pytorch implementation of LDNet a Lane marking detection algorithm on DVS data.
 Peper "LDNet: End-to-End Lane Marking Detection Approach Using a Dynamic Vision Sensor", accepted in [2021](https://ieeexplore.ieee.org/document/9518365).
 
